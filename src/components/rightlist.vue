@@ -1,4 +1,4 @@
-﻿<!-- 右侧固定导航栏 -->
+﻿<!-- 右侧固定导航栏 多福多寿 -->
 <template>
   <div class="rightlistBox">
     <section>
