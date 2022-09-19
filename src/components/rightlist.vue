@@ -1,4 +1,4 @@
-﻿<!-- 右侧固定导航栏 多福多寿 -->
+﻿<!-- 右侧固定导航栏 -->
 <template>
   <div class="rightlistBox">
     <section>
@@ -121,7 +121,7 @@ export default {
       artCommentList: "", //最新评论
       catchMeObj: {
         //个人信息
-        git: "https://gitee.com",
+        git: "https://gitee.com/JinLonGgg",
         qq: "/static/img/qq.png",
         sina: "https://weibo.com",
         wechat: "/static/img/qq.jpg",
